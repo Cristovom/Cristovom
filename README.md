@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img href="https://github.com/Cristovom/Cristovom/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<!-- <img href="https://github.com/Cristovom/Cristovom/blob/main/.github/workflows/snake.yml" alt="Snake animation" /> -->
 
 ###
