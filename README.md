@@ -7,6 +7,8 @@
 <!-- <img align="right" height="150" src="https://i0.wp.com/i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?w=740&ssl=1"  /> -->
 ###
 
+## Skills
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -23,6 +25,7 @@
 
 ###
 
+<!-- 
 <div>
   <a href="https://msng.link/o/?Cristovom=tg" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
@@ -34,3 +37,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+-->
+
+## Contact
+
+[![Telegram Badge](https://img.shields.io/badge/-@cristovom-484f58?style=flat-square&labelColor=2ca5e0&logo=Telegram&logoColor=white&link=https://msng.link/o/?Cristovom=tg)](https://msng.link/o/?Cristovom=tg) 
+[![Linkedin Badge](https://img.shields.io/badge/-cristovom-484f58?style=flat-square&labelColor=0077b5&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristovom/)](https://www.linkedin.com/in/cristovom/) 
+[![Instagram Badge](https://img.shields.io/badge/-@cristovom_nunes-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/cristovom_nunes/)](https://www.instagram.com/cristovom_nunes/) 
+[![Gmail Badge](https://img.shields.io/badge/-cristovom.dev@gmail.com-484f58?style=flat-square&labelColor=DB4437&logo=Gmail&logoColor=white&link=mailto:cristovom.dev@gmail.com)](mailto:cristovom.dev@gmail.com)
