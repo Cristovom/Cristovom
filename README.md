@@ -41,7 +41,7 @@
 
 ## Contact
 
-[![Telegram Badge](https://img.shields.io/badge/-@cristovom-484f58?style=flat-square&labelColor=2ca5e0&logo=Telegram&logoColor=white&link=https://msng.link/o/?Cristovom=tg)](https://msng.link/o/?Cristovom=tg) 
-[![Linkedin Badge](https://img.shields.io/badge/-cristovom-484f58?style=flat-square&labelColor=0077b5&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristovom/)](https://www.linkedin.com/in/cristovom/) 
-[![Instagram Badge](https://img.shields.io/badge/-@cristovom_nunes-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/cristovom_nunes/)](https://www.instagram.com/cristovom_nunes/) 
-[![Gmail Badge](https://img.shields.io/badge/-cristovom.dev@gmail.com-484f58?style=flat-square&labelColor=DB4437&logo=Gmail&logoColor=white&link=mailto:cristovom.dev@gmail.com)](mailto:cristovom.dev@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-@Cristovam-484f58?style=flat-square&labelColor=2ca5e0&logo=Telegram&logoColor=white&link=https://msng.link/o/?Cristovom=tg)](https://msng.link/o/?Cristovom=tg) 
+[![Linkedin Badge](https://img.shields.io/badge/-Cristovam%20Nunes-484f58?style=flat-square&labelColor=0077b5&logo=logmein&logoColor=white&link=https://www.linkedin.com/in/cristovamnunes/)](https://www.linkedin.com/in/cristovamnunes/) 
+[![Instagram Badge](https://img.shields.io/badge/-@Cristovam_Nunes-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/cristovom_nunes/)](https://www.instagram.com/cristovom_nunes/) 
+[![Gmail Badge](https://img.shields.io/badge/-cristovam.developer@gmail.com-484f58?style=flat-square&labelColor=DB4437&logo=Gmail&logoColor=white&link=mailto:cristovam.developer@gmail.com)](mailto:cristovam.developer@gmail.com)
